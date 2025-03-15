@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b8a5b4-d937-4296-88da-6d84a77334a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Simple_DataBase.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Simple_DataBase.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="86b8a5b4-d937-4296-88da-6d84a77334a3" name="Changes" comment="txt file created which data can store,">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ismailhakkii"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/ismailhakkii/Simple_DataBase.git",
@@ -58,11 +66,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742069067609</updated>
-      <workItem from="1742069068693" duration="362000" />
+      <workItem from="1742069068693" duration="754000" />
     </task>
+    <task id="LOCAL-00001" summary="txt file created which data can store,">
+      <option name="closed" value="true" />
+      <created>1742069509483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742069509483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="txt file created which data can store," />
+    <option name="LAST_COMMIT_MESSAGE" value="txt file created which data can store," />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Simple_DataBase$main.coverage" NAME="main Coverage Results" MODIFIED="1742070122527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
